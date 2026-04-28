@@ -15,10 +15,15 @@
       list-style: none;
       flex-direction: row;
       
-      
   
-      
-
+    }
+    .nav-links a{
+      text-decoration: none;
+      color: white;
+      font-size: 30px;
+    }
+    .nav-links a:hover{
+      color: red;
     }
     .hero{
       text-align: center;
